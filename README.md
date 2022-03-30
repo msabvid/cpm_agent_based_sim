@@ -2,7 +2,7 @@
 
 Small repo, where an agent learns how to beat a constant product market wit constant fees. 
 
-Code for the paper [The Case for Variable Fees in Constant Product Markets: An Agent Based Simulation](ttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065088) submitted and accepted at defi'22. 
+Code for the paper _The Case for Variable Fees in Constant Product Markets: An Agent Based Simulation_ accepted at defi'22. . Available [here](ttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065088). 
 
 Abstract:
 
