@@ -1,6 +1,6 @@
 # The Case for Variable Fees in Constant Product Markets: An Agent Based Simulation
 
-Small repo, where an agent learns how to beat a constant product market wit constant fees. 
+Small repo, where an agent learns to trade against a constant product market with constant fees. 
 
 Code for the paper [The Case for Variable Fees in Constant Product Markets: An Agent Based Simulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065088), accepted at defi'22.  
 
